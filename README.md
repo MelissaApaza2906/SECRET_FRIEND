@@ -1,4 +1,5 @@
 Amigo Secreto - ¡Celebra la Amistad! 🎉
+
 ¡Bienvenido a Amigo Secreto! Este es un divertido proyecto web en el que podrás celebrar el Día de la Amistad con tus amigos, familiares o compañeros de trabajo. ¿Cómo? ¡Muy fácil! Solo tienes que agregar los nombres de todos los participantes y dejar que la magia ocurra: el sistema hará un sorteo automático y te dirá a quién le tienes que regalar algo, ¡todo con una temática divertida y amigable!
 
 Descripción 📜
@@ -19,13 +20,6 @@ HTML: Para la estructura de la página.
 CSS: Para el diseño y la temática visual.
 JavaScript: Para manejar la lógica del sorteo y la interactividad de la página.
 jQuery: Para facilitar la manipulación del DOM y mejorar la experiencia del usuario.
-Cómo Usar el Proyecto 🚀
-Clona el Repositorio: Si deseas utilizarlo en tu computadora local, clona el repositorio:
-
-bash
-Copiar
-git clone https://github.com/tu-usuario/amigo-secreto.git
-Abre el Proyecto en tu Navegador:
 
 Abre el archivo index.html en tu navegador favorito.
 Agrega Participantes:
